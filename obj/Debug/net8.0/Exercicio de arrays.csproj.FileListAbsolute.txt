@@ -1,0 +1,14 @@
+C:\Users\joaoc\Desktop\Exercicio de arrays\bin\Debug\net8.0\Exercicio de arrays.exe
+C:\Users\joaoc\Desktop\Exercicio de arrays\bin\Debug\net8.0\Exercicio de arrays.deps.json
+C:\Users\joaoc\Desktop\Exercicio de arrays\bin\Debug\net8.0\Exercicio de arrays.runtimeconfig.json
+C:\Users\joaoc\Desktop\Exercicio de arrays\bin\Debug\net8.0\Exercicio de arrays.dll
+C:\Users\joaoc\Desktop\Exercicio de arrays\bin\Debug\net8.0\Exercicio de arrays.pdb
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.dll
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\refint\Exercicio de arrays.dll
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.pdb
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.genruntimeconfig.cache
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\ref\Exercicio de arrays.dll
