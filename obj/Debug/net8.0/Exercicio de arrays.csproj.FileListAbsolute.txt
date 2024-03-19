@@ -12,3 +12,4 @@ C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\refint\Exercicio de 
 C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.pdb
 C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.genruntimeconfig.cache
 C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\ref\Exercicio de arrays.dll
+C:\Users\joaoc\Desktop\Exercicio de arrays\obj\Debug\net8.0\Exercicio de arrays.sourcelink.json
